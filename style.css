@@ -1,0 +1,271 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.container{
+    width: 1350px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header{
+    position: fixed;
+    padding: 20px 0px;
+    background-color:#128c7e;
+    font-weight: bolder;
+    font-family: Roboto, Helvetica, sans-serif;
+}
+.logo{
+    width: 25px;
+    margin: 9px 10px;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+.logo_support{
+    margin-top: 3px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.header_nav{
+    margin-left: 76%;
+    padding: 8px;
+    text-decoration: none;
+}
+.header_nav a{
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 20px;
+}
+.header_nav .two{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+    padding:5px 9px;
+}
+.header_nav .one:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+}
+.header_nav .two:hover{
+    background-color: rgb(28, 28, 202);
+}
+.title{
+    width: 45%;
+    margin: auto;
+}
+.title .title_one{
+    width: 45%;
+    margin: auto;
+    font-size: 20px;
+}
+.title_one h1{
+    margin-left: -100%;
+    width: max-content;
+    font-size: 40px;
+}
+.title_one p{
+    margin-left: -100%;
+    width: max-content;
+    font-weight: lighter;
+    color: rgb(59, 58, 58);
+    padding-top: -20%;
+    font-size: 21px;
+}
+#email{
+    margin-left: -100%;
+    padding: 10px 55px;
+    border-radius: 5px;
+}
+.title_one a{
+    color: white;
+    text-decoration: none;
+    padding: 08px 40px;
+    border-radius: 6px;
+    width:max-content;
+    background-color: rgb(11, 102, 192);
+}
+.title_one a:hover{
+    background-color: blue;
+}
+.title .title_one img{
+    margin-left:160px;
+    padding-top: 25%;
+    width: 170%
+}
+.box{
+    text-align: center;
+    margin-left: 60px;
+    padding: 10%;
+    font-size: 23px;
+}
+.box_one p{
+    font-size: 20px;
+    color: rgb(92, 88, 88);
+    font-weight: lighter;
+}
+.box a{
+    text-decoration: none;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    padding: 5px 15px;
+    color: dodgerblue;
+    font-weight: lighter;
+}
+.box a:hover{
+    background-color: blue;
+    color: white;
+}
+.box img{
+    padding-top:20px;
+    margin-left: -50px;
+    width: 110%;
+}
+.box_one .img2{
+    width:50%;
+    margin-left: 30%;
+}
+.box h2{
+    margin-left: -60%;
+}
+.view{
+    margin: auto;
+    margin-top:-50px;
+}
+.view1 h2{
+    margin-left: 10%;
+    font-size: 32px;
+}
+.view1 p{
+    margin-left: 10%;
+    width: 35%;
+    font-size: 20px;
+    font-weight: lighter;
+    color: rgb(95, 90, 90);
+}
+.view2{
+    width:45%;
+    margin:auto;
+}
+.view2 .view2_1{
+    width:45%;
+    margin:auto;
+}
+.view2_1 img{
+    padding-top: 50px;
+    margin-left: -90%;
+}
+.view2_1 h2{
+   font-size: 32px;
+   width: max-content;
+}
+.view2_1 p{
+    color: grey;
+    width: max-content;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.view3{
+    width:45%;
+    margin:auto;
+}
+.view3 .view3_1{
+    width:45%;
+    margin:auto;
+}
+.view3_1 img{
+    padding-top: 50px;
+    margin-left: 30%;
+}
+.view3_1 h2{
+   font-size: 34px;
+   width: max-content;
+   margin-left: -90%;
+}
+.view3_1 p{
+    color: grey;
+    font-size: 20px;
+    margin-left: -90%;
+    font-weight: lighter;
+}
+.view3_1 h3{
+    margin-left: -90%;
+}
+.view4{
+    padding-top: 50px;
+    width:45%;
+    margin:auto;
+}
+.view4 .view4_1{
+    width:45%;
+    margin:auto;
+}
+.view4_1 img{
+    padding-top: 50px;
+    margin-left: -90%;
+}
+.view4_1 h2{
+   font-size: 32px;
+   width: max-content;
+}
+.view4_1 p{
+    color: grey;
+    width: max-content;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.view4_1 img{
+    width:150%
+}
+.view5{
+    width:45%;
+    margin:auto;
+}
+.view5 .view5_1{
+    width:45%;
+    margin:auto;
+}
+.view5_1 img{
+    padding-top: 50px;
+    margin-left: 30%;
+}
+.view5_1 h2{
+   font-size: 34px;
+   width: max-content;
+   margin-left: -90%;
+}
+.view5_1 p{
+    color: grey;
+    font-size: 20px;
+    margin-left: -90%;
+    font-weight: lighter;
+}
+.view5_1 h3{
+    margin-left: -90%;
+}
+.view5_1 img{
+    width: 160%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
