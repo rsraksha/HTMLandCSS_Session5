@@ -14,8 +14,9 @@ body{
     background-color: blue;
     box-shadow: 15px;
 }
-.logo{
+.header_logo{
     width: 25px;
+    height: 25px;
     margin: 9px 10px;
     margin-left: 30px;
     border-radius: 5px;
@@ -71,8 +72,10 @@ body{
     font-size: 21px;
 }
 #email{
+    text-align: left;
     margin-left: -100%;
-    padding: 10px 55px;
+    padding: 10px;
+    padding-right: 50%;
     border-radius: 5px;
 }
 .title_one a{
@@ -284,16 +287,56 @@ body{
     background-color: blue;
     color: white;
 }
-
-
-
-
-
-
-
-
-
-
+.sign{
+    width:80%;
+    margin:auto;
+    background-color:rgb(66, 66, 255);
+    padding: 6% 2%;
+    border-radius: 25px;
+}
+.sign .email{
+    margin-left: 25%;
+    padding: 10px;
+    padding-right: 20%;
+    border-radius: 10px;
+}
+.sign a{
+    color: white;
+    text-decoration: none;
+    padding: 08px 40px;
+    border-radius: 6px;
+    width:45%;
+    background-color: dodgerblue;
+}
+.sign a:hover{
+    background-color: rgb(63, 63, 197);
+}
+.sign p{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.links a{
+    padding: 5px;
+    color: grey;
+    text-decoration:underline;
+}
+.links{
+    margin-left: 25%;
+}
+.links .atlas img{
+    width:15%;
+    margin-left: 23%;
+    padding-top: 3%;
+}
+.links p{
+    margin-left: 18%;
+}
+.aaa img{
+    width:100%;
+}
 
 
 
